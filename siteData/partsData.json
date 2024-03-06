@@ -1,0 +1,632 @@
+[
+    {
+        "quantity": 6,
+        "name": "JETI High Voltage Capacitor Module ADDCAP 1640 (63V/300A)",
+        "sourcing": "AeroPanda",
+        "unitCost": 23,
+        "subTotal": 138
+      },
+      {
+        "quantity": 1,
+        "name": "SmartAP PDB",
+        "sourcing": "Skydrones",
+        "unitCost": 90,
+        "subTotal": 90
+      },
+      {
+        "quantity": 1,
+        "name": "7 PIN JST XH Female Connectors",
+        "sourcing": "Amazon",
+        "unitCost": 6.49,
+        "subTotal": 6.49
+      },
+      {
+        "quantity": 1,
+        "name": "1/0 Gauge (AWG) Black and Red Pure Copper Battery Cable Wire with Lug Connector Ring Terminals",
+        "sourcing": "WindyNation",
+        "unitCost": 17.81,
+        "subTotal": 17.81
+      },
+      {
+        "quantity": 1,
+        "name": "Battery Pack PVC Heat Shrink Wrap Tube Length 3M",
+        "sourcing": "Amazon",
+        "unitCost": 15.36,
+        "subTotal": 15.36
+      },
+      {
+        "quantity": 1,
+        "name": "Nickel Strips, 10m*0.15mm * 8mm",
+        "sourcing": "Amazon",
+        "unitCost": 8.99,
+        "subTotal": 8.99
+      },
+      {
+        "quantity": 60,
+        "name": "Molicel 21700 P42A 4200mAh 45A Battery",
+        "sourcing": "8650 Battery Store",
+        "unitCost": 4.85,
+        "subTotal": 291
+      },
+      {
+        "quantity": 1,
+        "name": "WindyNation ANL Fuse Holder + ANL Fuse",
+        "sourcing": "Amazon",
+        "unitCost": 16.23,
+        "subTotal": 16.23
+      },
+      {
+        "quantity": 1,
+        "name": "AWithZ Handheld Spot Welder 11 Gear Adjustable, Automatic and Manual Modes Battery Welder for 18650 Battery",
+        "sourcing": "Amazon",
+        "unitCost": 44.99,
+        "subTotal": 44.99
+      },
+      {
+        "quantity": 1,
+        "name": "WST 10 Pairs MT60 3.5mm 3-wire 3-pole Bullet Connector Plug Set for RC ESC to Motor 10 Male Connectors & 10 Female Connectors",
+        "sourcing": "Amazon",
+        "unitCost": 17.99,
+        "subTotal": 17.99
+      },
+      {
+        "quantity": 1,
+        "name": "XT90 90amp connectors",
+        "sourcing": "Amazon",
+        "unitCost": 15.86,
+        "subTotal": 15.86
+      },
+      {
+        "quantity": 1,
+        "name": "8 AWG Wire",
+        "sourcing": "Amazon",
+        "unitCost": 28.95,
+        "subTotal": 28.95
+      },
+      {
+        "quantity": 6,
+        "name": "P60 Without Pin KV340 Motor",
+        "sourcing": "T-MOTOR",
+        "unitCost": 107.9,
+        "subTotal": 647.4000000000001
+      },
+      {
+        "quantity": 6,
+        "name": "KDE-UAS75HVC ESCs",
+        "sourcing": "KDE-Direct",
+        "unitCost": 185,
+        "subTotal": 1110
+      },
+      {
+        "quantity": 3,
+        "name": "P22x6.6 Prop-2PCS/PAIR",
+        "sourcing": "T-MOTOR",
+        "unitCost": 140.9,
+        "subTotal": 422.70000000000005
+      },
+      {
+        "quantity": 1,
+        "name": "Device Manager Adapter for UAS Electronic Speed Controller (ESC) Series",
+        "sourcing": "KDE",
+        "unitCost": 20,
+        "subTotal": 20
+      },
+      {
+        "quantity": 1,
+        "name": "RadioMaster Pocket",
+        "sourcing": "Amazon",
+        "unitCost": 59.99,
+        "subTotal": 59.99
+      },
+      {
+        "quantity": 1,
+        "name": "Futaba R7008SB 2.4GHz FASSTest Telemetry Rx 18MZ 14SG Receiver",
+        "sourcing": "Amazon",
+        "unitCost": 169.99,
+        "subTotal": 169.99
+      },
+      {
+        "quantity": 1,
+        "name": "3DR 500MW Radio Telemetry Kit 915Mhz 915 Kit Air and Groud Data Transmit Module for APM2.6 APM2.8 PX4 Pixhawk",
+        "sourcing": "Amazon",
+        "unitCost": 70.99,
+        "subTotal": 70.99
+      },
+      {
+        "quantity": 1,
+        "name": "SanDisk Extreme U3 32GB",
+        "sourcing": "Amazon",
+        "unitCost": 25.99,
+        "subTotal": 13.99
+      },
+      {
+        "quantity": 1,
+        "name": "HC-S04 Ultrasonic Distance Sensor (lot of 5)",
+        "sourcing": "Amazon",
+        "unitCost": 8.99,
+        "subTotal": 8.99
+      },
+      {
+        "quantity": 1,
+        "name": "HolyBro Pixhawk 6C Flight Controller + PM07 Power Module + M8N GPS",
+        "sourcing": "Holybro",
+        "unitCost": 337.99,
+        "subTotal": 337.99
+      },
+      {
+        "quantity": 1,
+        "name": "ARK Flow Sensor",
+        "sourcing": "ARK Electron",
+        "unitCost": 250,
+        "subTotal": 250
+      },
+      {
+        "quantity": 1,
+        "name": "TFMini-S - Micro LiDAR Module",
+        "sourcing": "SparkFun",
+        "unitCost": 42.95,
+        "subTotal": 42.95
+      },
+      {
+        "quantity": 5,
+        "name": "Carbon Fiber Roll Wrapped Twill Square Tube ~ 1\" ID x 1\" ID x 48\"",
+        "sourcing": "DragonPlate",
+        "unitCost": 205.76,
+        "subTotal": 1028.8
+      },
+      {
+        "quantity": 3,
+        "name": "EconomyPlate™ Solid Carbon Fiber Sheet ~ 1/8\" x 12\" x 12\"",
+        "sourcing": "DragonPlate",
+        "unitCost": 91.47,
+        "subTotal": 274.40999999999997
+      },
+      {
+        "quantity": 1,
+        "name": "1.25\" x 0.125\" Aluminum Square Tube 6063-T52-Extruded x 60\"",
+        "sourcing": "OnlineMetals",
+        "unitCost": 49.56,
+        "subTotal": 49.56
+      },
+      {
+        "quantity": 1,
+        "name": "Off-White Nylon Unthreaded Spacer 5/8\" OD, 3\" Long, for 1/4\" Screw Size",
+        "sourcing": "McMaster-Carr",
+        "unitCost": 13.95,
+        "subTotal": 13.95
+      },
+      {
+        "quantity": 1,
+        "name": "Multipurpose 6061 Aluminum Sheet, 0.08\" Thick, 6\" x 48\" (REMOVED)",
+        "sourcing": "McMaster-Carr",
+        "unitCost": 0,
+        "subTotal": 0
+      },
+      {
+        "quantity": 1,
+        "name": "Penn Racquetballs (Pack of 12)",
+        "sourcing": "Amazon",
+        "unitCost": 31.99,
+        "subTotal": 31.99
+      },
+      {
+        "quantity": 21,
+        "name": "Sleeve Bearing: 1/4 in Inside Dia., 3/8 in Outside Dia., 1 1/4 in Lg",
+        "sourcing": "McMaster-Carr",
+        "unitCost": 1.06,
+        "subTotal": 22.26
+      },
+      {
+        "quantity": 1,
+        "name": "1/4\" Lock washers 18-8 Stainless steel",
+        "sourcing": "McMaster-Carr",
+        "unitCost": 5.25,
+        "subTotal": 5.25
+      },
+      {
+        "quantity": 1,
+        "name": "M6 18-8 Stainless Steel Hex Nut",
+        "sourcing": "McMaster-Carr",
+        "unitCost": 13.86,
+        "subTotal": 13.86
+      },
+      {
+        "quantity": 2,
+        "name": "Black-Oxide Alloy Steel Socket Head Screw M5 x 0.8 mm Thread, 60 mm Long, Partially Threaded",
+        "sourcing": "McMaster-Carr",
+        "unitCost": 7.38,
+        "subTotal": 14.76
+      },
+      {
+        "quantity": 1,
+        "name": "Medium-Strength Steel Nylon-Insert Locknut Class 8, Zinc Plated, M5 x 0.8 mm Thread, 5 mm High",
+        "sourcing": "McMaster-Carr",
+        "unitCost": 6.14,
+        "subTotal": 6.14
+      },
+      {
+        "quantity": 2,
+        "name": "M6 18-8 Stainless Steel Threaded Rod",
+        "sourcing": "McMaster_Carr",
+        "unitCost": 13.74,
+        "subTotal": 27.48
+      },
+      {
+        "quantity": 1,
+        "name": "M6 18-8 Stainless Steel Nylon-Insert Locknut",
+        "sourcing": "McMaster-Carr",
+        "unitCost": 6.88,
+        "subTotal": 6.88
+      },
+      {
+        "quantity": 1,
+        "name": "General Purpose 18-8 Stainless Steel Washer",
+        "sourcing": "McMaster-Carr",
+        "unitCost": 6.58,
+        "subTotal": 6.58
+      },
+      {
+        "quantity": 1,
+        "name": "18-8 Stainless Steel Washer: 1/4\"",
+        "sourcing": "McMaster-Carr",
+        "unitCost": 5.5,
+        "subTotal": 5.5
+      },
+      {
+        "quantity": 1,
+        "name": "20 oz Big Gap Filler Insulating Foam Sealant ( package may vary )",
+        "sourcing": "Amazon",
+        "unitCost": 20,
+        "subTotal": 12.19
+      },
+      {
+        "quantity": 1,
+        "name": "J-B WELD™ TWIN TUBE - 2 OZ",
+        "sourcing": "JB Weld",
+        "unitCost": 7.99,
+        "subTotal": 7.99
+      },
+      {
+        "quantity": 2,
+        "name": "Black-Oxide Alloy Steel Socket Head Screw 6-32 Thread Size, 2-1/2\" Long",
+        "sourcing": "McMaster-Carr",
+        "unitCost": 13.36,
+        "subTotal": 26.72
+      },
+      {
+        "quantity": 1,
+        "name": "General Purpose 18-8 Stainless Steel Washer M4",
+        "sourcing": "McMaster-Carr",
+        "unitCost": 3.43,
+        "subTotal": 3.43
+      },
+      {
+        "quantity": 1,
+        "name": "LDPE Unthreaded Spacer",
+        "sourcing": "McMaster-Carr",
+        "unitCost": 15.92,
+        "subTotal": 15.92
+      },
+      {
+        "quantity": 1,
+        "name": "Core Prodigy Fusion Grip Tape",
+        "sourcing": "Amazon",
+        "unitCost": 13.95,
+        "subTotal": 13.95
+      },
+      {
+        "quantity": 1,
+        "name": "BAISDY 6Pcs Wet Dry Sanding Sponges, 60 80 100 120 180 220 Grit Sanding Pad Assortment, Washable and Reusable",
+        "sourcing": "Amazon",
+        "unitCost": 7.99,
+        "subTotal": 7.99
+      },
+      {
+        "quantity": 12,
+        "name": "18-8 Stainless Steel Wire-Lock Clevis Pin",
+        "sourcing": "McMaster-Carr",
+        "unitCost": 6.94,
+        "subTotal": 83.28
+      },
+      {
+        "quantity": 1,
+        "name": "18-8 Stainless Steel socket head screw 1/4\"-28, 2\" long (pack of 25)",
+        "sourcing": "McMaster-Carr",
+        "unitCost": 28.13,
+        "subTotal": 28.13
+      },
+      {
+        "quantity": 1,
+        "name": "18-8 Stainless Steel hex nut 1/4-28\" (pack of 100)",
+        "sourcing": "McMaster-Carr",
+        "unitCost": 5.92,
+        "subTotal": 5.92
+      },
+      {
+        "quantity": 1,
+        "name": "Alloy steel socket head screw M4 (pack of 100)",
+        "sourcing": "McMaster-Carr",
+        "unitCost": 11.27,
+        "subTotal": 11.27
+      },
+      {
+        "quantity": 1,
+        "name": "1/4\"-28 wingnut 18-8 Stainless steel, pack of 25",
+        "sourcing": "McMaster-Carr",
+        "unitCost": 9.83,
+        "subTotal": 9.83
+      },
+      {
+        "quantity": 1,
+        "name": "1/4\" Lock washers 18-8 Stainless steel",
+        "sourcing": "McMaster-Carr",
+        "unitCost": 3.74,
+        "subTotal": 3.74
+      },
+      {
+        "quantity": 1,
+        "name": "Mil. Spec. 18-8 Stainless Steel Hex Nuts",
+        "sourcing": "McMaster-Carr",
+        "unitCost": 11.07,
+        "subTotal": 11.07
+      },
+      {
+        "quantity": 6,
+        "name": "3D printed motor mounts - Design in Progress",
+        "sourcing": "Xometry",
+        "unitCost": "TBD",
+        "subTotal": "TBD"
+      },
+      {
+        "quantity": 3,
+        "name": "1/16\" x 8\" x 12\" Stainless Steel Plate, 304 SS, 16 Gauge",
+        "sourcing": "Amazon",
+        "unitCost": 16,
+        "subTotal": 48
+      },
+      {
+        "quantity": 1,
+        "name": "M4 - 0.7mm Cap Screw 25mm 2-Pack",
+        "sourcing": "Home Depot",
+        "unitCost": 1.25,
+        "subTotal": 1.25
+      },
+      {
+        "quantity": 1,
+        "name": "M4 - 0.7mm Hex Nut 2-Pack",
+        "sourcing": "Home Depot",
+        "unitCost": 1.25,
+        "subTotal": 1.25
+      },
+      {
+        "quantity": 1,
+        "name": "M4 Class Washers 4-Pack",
+        "sourcing": "Home Depot",
+        "unitCost": 1.25,
+        "subTotal": 1.25
+      },
+      {
+        "quantity": 1,
+        "name": "Beduan Quick Disconnect Set, Air Hose Fitting Quick Connect Coupler 5/16\"",
+        "sourcing": "Amazon",
+        "unitCost": 9.99,
+        "subTotal": 9.99
+      },
+      {
+        "quantity": 1,
+        "name": "IEIK Water Pressure Diaphragm Pump DC 12V",
+        "sourcing": "Amazon",
+        "unitCost": 28.99,
+        "subTotal": 28.99
+      },
+      {
+        "quantity": 1,
+        "name": "Kohree DC/DC Converter Regulator 24V Step Down to 12V 20A 240W",
+        "sourcing": "Amazon",
+        "unitCost": 18.99,
+        "subTotal": 18.99
+      },
+      {
+        "quantity": 1,
+        "name": "Everbilt 5/8 in. O.D. x 3/8 in. I.D. x 10 ft. PVC Braided Vinyl Tube",
+        "sourcing": "Home Depot",
+        "unitCost": 13.98,
+        "subTotal": 13.98
+      },
+      {
+        "quantity": 1,
+        "name": "DIG Fogger Mister on Barb (5-Pack)",
+        "sourcing": "Home Depot",
+        "unitCost": 4.98,
+        "subTotal": 4.98
+      },
+      {
+        "quantity": 1,
+        "name": "1/4 in. x 50 ft. Vinyl Micro Drip Tubing",
+        "sourcing": "Home Depot",
+        "unitCost": 6,
+        "subTotal": 6
+      },
+      {
+        "quantity": 1,
+        "name": "Everbit 1/4 in. OD Compression x 1/8 in MIP 90-Degree Brass Elbow Adapter",
+        "sourcing": "Home Depot",
+        "unitCost": 7.55,
+        "subTotal": 7.55
+      },
+      {
+        "quantity": 8,
+        "name": "3/8 - 7/8 in. Stainless Steel Hose Clamp",
+        "sourcing": "Home Depot",
+        "unitCost": 1.98,
+        "subTotal": 15.84
+      },
+      {
+        "quantity": 12,
+        "name": "Neodymium Magnet Magnetized Through Thickness, 1/16\" Thick, 1/2\" OD",
+        "sourcing": "McMaster-Carr",
+        "unitCost": 1.2,
+        "subTotal": 14.399999999999999
+      },
+      {
+        "quantity": 6,
+        "name": "Push-to-Connect Tube Fitting for Air and Water - T",
+        "sourcing": "McMaster-Carr",
+        "unitCost": 4.16,
+        "subTotal": 24.96
+      },
+      {
+        "quantity": 6,
+        "name": "Push-to-Connect Tube Fitting for Air and Water - Elbow",
+        "sourcing": "McMaster-Carr",
+        "unitCost": 3.61,
+        "subTotal": 21.66
+      },
+      {
+        "quantity": 6,
+        "name": "Push-to-Connect Tube Fitting for Air and Water - Straight",
+        "sourcing": "McMaster-Carr",
+        "unitCost": 2.76,
+        "subTotal": 16.56
+      },
+      {
+        "quantity": 2,
+        "name": "Push-to-Connect Tube Fitting for Air and Water - T",
+        "sourcing": "McMaster-Carr",
+        "unitCost": 4.16,
+        "subTotal": 8.32
+      },
+      {
+        "quantity": 1,
+        "name": "Pololu G2 High-Power Motor Driver",
+        "sourcing": "Popolu",
+        "unitCost": 39.95,
+        "subTotal": 39.95
+      },
+      {
+        "quantity": 1,
+        "name": "Pump mounting bracket - Design in Progress",
+        "sourcing": "Xometry",
+        "unitCost": "TBD",
+        "subTotal": "TBD"
+      },
+      {
+        "quantity": 1,
+        "name": "Ace Roto-Mold 3 Gallon Cone Bottom Specailty Rinse Tank",
+        "sourcing": "Tank Depot",
+        "unitCost": 57,
+        "subTotal": 57
+      },
+      {
+        "quantity": 8,
+        "name": "Rubber Gaskets, 5/16 I.D. (just to fit around M6 bolt",
+        "sourcing": "Robnetts",
+        "unitCost": 0.43,
+        "subTotal": 3.44
+      },
+      {
+        "quantity": 8,
+        "name": "M6x20 18-8 bolts",
+        "sourcing": "Robnetts",
+        "unitCost": 0.8,
+        "subTotal": 6.4
+      },
+      {
+        "quantity": 8,
+        "name": "M6 fender washers 18-8",
+        "sourcing": "Robnetts",
+        "unitCost": 0.4,
+        "subTotal": 3.2
+      },
+      {
+        "quantity": 8,
+        "name": "M6 Nylon locknuts 18-8",
+        "sourcing": "Robnetts",
+        "unitCost": 0.53,
+        "subTotal": 4.24
+      },
+      {
+        "quantity": 4,
+        "name": "T-Handle Quick-Release Pin 1/4\" Dia 3/4\" Length",
+        "sourcing": "CJ Race Cars",
+        "unitCost": 14.95,
+        "subTotal": 59.8
+      },
+      {
+        "quantity": 2,
+        "name": "Tank Bracket A",
+        "sourcing": "Xometry",
+        "unitCost": 27.77,
+        "subTotal": 55.54
+      },
+      {
+        "quantity": 2,
+        "name": "Tank Bracket B",
+        "sourcing": "Xometry",
+        "unitCost": 39.1,
+        "subTotal": 78.2
+      },
+      {
+        "quantity": 6,
+        "name": "Eye bolts (Home Depot --> test bed build) 3/8 x 5 inches",
+        "sourcing": "Home Depot",
+        "unitCost": 1.58,
+        "subTotal": 9.48
+      },
+      {
+        "quantity": 12,
+        "name": "Washers (Home Depot --> test bed build) 3/8\"",
+        "sourcing": "Home Depot",
+        "unitCost": 0.31,
+        "subTotal": 3.7199999999999998
+      },
+      {
+        "quantity": 1,
+        "name": "Nuts (Home Depot --> test bed build) 6 Pack 3/8\"-16",
+        "sourcing": "Home Depot",
+        "unitCost": 1.38,
+        "subTotal": 1.38
+      },
+      {
+        "quantity": 3,
+        "name": "8' 2'x4' (Home Depot --> test bed build)",
+        "sourcing": "Home Depot",
+        "unitCost": 3.74,
+        "subTotal": 11.22
+      },
+      {
+        "quantity": 1,
+        "name": "5-36vDC brushed DC motor ESC, 400W (5 PACK)",
+        "sourcing": "Amazon",
+        "unitCost": 9.99,
+        "subTotal": 1.998
+      },
+      {
+        "quantity": 1,
+        "name": "PixHawk WI-FI telemetry device",
+        "sourcing": "Ebay",
+        "unitCost": 0.31,
+        "subTotal": 13.1
+      },
+      {
+        "quantity": 1,
+        "name": "Capacitive sensor, 3mm range, 5vDC",
+        "sourcing": "Mouser",
+        "unitCost": 9.9,
+        "subTotal": 9.9
+      },
+      {
+        "quantity": 1,
+        "name": "Capacitive sensor, 20mm range, 5vDC",
+        "sourcing": "Mouser",
+        "unitCost": 10.9,
+        "subTotal": 10.9
+      },
+      {
+        "quantity": 1,
+        "name": "Servo extension cable, 19.5\"",
+        "sourcing": "Mouser",
+        "unitCost": 2.5,
+        "subTotal": 2.5
+      }
+]
